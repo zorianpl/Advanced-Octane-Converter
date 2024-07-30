@@ -1,4 +1,4 @@
-The script attempts to convert all Cycles Materials in the scene to Octane Materials. The Octane shader tree is alongside the Cycles shader, allowing both engines to be used simultaneously.
+The addon attempts to convert all Cycles Materials in the scene to Octane Materials. The Octane shader tree is alongside the Cycles shader, allowing both engines to be used simultaneously.
 
 1. Texture Nodes:
    - Convert texture nodes from Cycles to Octane, alongside Cycles shaders.
